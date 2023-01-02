@@ -7,8 +7,4 @@
         </p>
     </b>
 </i>
-
-<p align = 'center'>
-    <h3>Format of the form</h3>
-    <img src="https://github.com/PiyushBL45t/JsonPowerDBProject/blob/main/images/Screenshot%20(53).png" alt="">
-</p>
+<img src="https://github.com/PiyushBL45t/JsonPowerDBProject/blob/main/images/Screenshot%20(53).png"/>
