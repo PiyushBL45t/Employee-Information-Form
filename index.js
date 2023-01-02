@@ -9,7 +9,7 @@ var jpdbIML = "/api/iml"; // iml link
 var jpdbIRL = "/api/irl"; // irl link
 var empDBName = "Employee"; // database name
 var EmpRelationName = "EMP-REL"; // database relation name
-var connToken = '90938251|-31949273412763271|90952551'; // connection token for the database
+var connToken = 'your_connection_token'; // connection token for the database
 
 
 // Saving the record number to Local Storage
