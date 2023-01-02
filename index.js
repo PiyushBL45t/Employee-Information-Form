@@ -153,20 +153,17 @@ function saveData() {
         return;
     }
 
-    // Using JPDB to create request
-
     var putReqStr = createPUTRequest(connToken, jsonStr, empDBName, EmpRelationName);
     alert(putReqStr);
+    
+    // switch off the asynchronour behavior of AJAX
     jQuery.ajaxSetup({ async: false });
-
-    // Executing The request(through JPDB ).
 
     var resJsonObj = executeCommandAtGivenBaseUrl(putReqStr, jpdbBaseURL, jpdbIML);
     alert(JSON.stringify(resJsonObj));
+    
+    // switch on the asynchronous behavior of AJAX
     jQuery.ajaxSetup({ async: true });
-
-    // Calling reset function
-
     resetForm();
     $("#empId").focus();
 }
