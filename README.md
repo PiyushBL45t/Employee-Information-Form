@@ -17,11 +17,12 @@
 </h3>
 
 ## Technologies and IDE's used:
-> 1. HTML5
-> 2. BootStrap
-> 3. JsonPowerDB
-> 4. JavaScript
-> 4. NetBeans 16.0 IDE
+> 1. HTML5: to develop the skeletal structure of the wbesite
+> 2. BootStrap: for layout and styling
+> 3. JsonPowerDB: to collect data dynamically
+> 4. JavaScript: for scripting
+> 5. AJAX: for asynchronous calls
+> 6. NetBeans 16.0 IDE
 
 
 
