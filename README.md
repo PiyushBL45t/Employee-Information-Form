@@ -12,7 +12,7 @@
 <h3>
      <p align=center>
         Supportive JavaScript used library:
-        <a href="http://login2explore.com/jpdb/resources/js/0.0.3/jpdb-commons.js">'commons.js"></a>
+        <a href="http://login2explore.com/jpdb/resources/js/0.0.3/jpdb-commons.js">'commons.js"</a>
      </p>
 </h3>
 
