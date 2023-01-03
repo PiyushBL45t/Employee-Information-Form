@@ -16,3 +16,12 @@
      </p>
 </h3>
 
+## Technologies and IDE's used:
+> 1. HTML5
+> 2. BootStrap
+> 3. JsonPowerDB
+> 4. JavaScript
+> 4. NetBeans 16.0 IDE
+
+
+
